@@ -1,12 +1,6 @@
-# Grid Layout with Motion Hover Effect and Content Preview
+Weird photography
 
-A retro-style grid layout with a playful motion hover effect on the grid items. When clicking on a grid item, a content preview opens. We use [TweenMax](https://greensock.com/tweenmax) for the animations.
-
-![Grid Layout Motion](https://tympanus.net/codrops/wp-content/uploads/2018/05/GridLayoutMotion_featured.jpg)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=34922)
-
-[Demo](http://tympanus.net/Development/GridLayoutMotion/)
+A retro-style grid 
 
 ## Credits
 
